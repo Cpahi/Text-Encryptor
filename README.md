@@ -42,4 +42,4 @@ Credits
 This application was developed by [Your Name] during a Cybersecurity internship at Pinnacle Labs.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is License free.
